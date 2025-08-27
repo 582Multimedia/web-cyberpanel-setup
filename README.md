@@ -44,6 +44,6 @@ Click on `Set up SSH/SFTP Access`.
 The last step to enter a password for your default SSH user.
 
 > [!IMPORTANT]
-> The user name for SSH/SFTP is **NOT** the same as your Cyber Panel, so make sure you take note of this user name for setting up your sftp access in vscode.
+> The user name for SSH/SFTP is **NOT** the same as your Cyber Panel, so make sure you **take note of this user** for setting up your sftp access in vscode.
 
 ![Set up SSH/SFTP details](images/ssh-details.jpg)
